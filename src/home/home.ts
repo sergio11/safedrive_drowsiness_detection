@@ -17,7 +17,6 @@ let template = require('./home.html');
   styles: [styles]
 })
 export class Home {
-  
   jwt: string;
   decodedJwt: string;
   response: string;
@@ -61,3 +60,4 @@ export class Home {
     }
   }
 }
+

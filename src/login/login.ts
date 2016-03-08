@@ -25,13 +25,12 @@ export class Login {
     this.http
         .post('http://localhost:3001/sessions/create', body, { headers: contentHeaders })
         .subscribe(response => {
-            localStorage.setItem('jwt', response.json().id_token);
-            this.router.parent.navigateByUrl('/home');
-          },error => {
-            alert(error.text());
-            console.log(error.text());
-          }
-        );
+          localStorage.setItem('jwt', response.json().id_token);
+          this.router.parent.navigateByUrl('/home');
+        },error => {
+          alert(error.text());
+          console.log(error.text());
+        });
   }
 
   signup(event) {
@@ -39,3 +38,4 @@ export class Login {
     this.router.parent.navigateByUrl('/signup');
   }
 }
+

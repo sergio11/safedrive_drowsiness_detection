@@ -4,7 +4,7 @@
   "description": "This is a sample that shows how to add authentication to an Angular 2 (ng2) app",
   "main": "index.js",
   "scripts": {
-    "server": "cd backend && npm i && node server.js",
+    "server": "node server.js",
     "front": "webpack-dev-server --inline -d --colors --display-error-details --display-cached --port 3000",
     "start": "npm run front",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/sergio11/auth-angular2-app#readme",
   "dependencies": {
-    "angular2": "2.0.0-beta.0",
+    "angular2": "^2.0.0-beta.0",
     "angular2-jwt": "0.1.4",
     "bootstrap": "^3.3.6",
     "es6-promise": "^3.0.2",
@@ -32,7 +32,17 @@
     "es7-reflect-metadata": "^1.4.0",
     "jwt-decode": "^1.5.0",
     "rxjs": "5.0.0-beta.0",
-    "zone.js": "0.5.10"
+    "zone.js": "0.5.10",
+    "body-parser": "^1.6.5",
+    "compression": "^1.0.11",
+    "cors": "^2.4.1",
+    "dotenv": "^0.4.0",
+    "errorhandler": "^1.1.1",
+    "express": "^4.8.5",
+    "express-jwt": "^0.3.1",
+    "jsonwebtoken": "^1.1.2",
+    "lodash": "^2.4.1",
+    "morgan": "^1.2.3"
   },
   "devDependencies": {
     "css-loader": "^0.23.0",
