@@ -14,7 +14,8 @@
     "src/login/login.ts",
     "src/signup/signup.ts",
     "src/index.ts",
-    "src/common/headers.ts"
+    "src/common/headers.ts",
+    "server/server.ts"
   ],
     "filesGlob": [
     "./src/**/*.ts",
