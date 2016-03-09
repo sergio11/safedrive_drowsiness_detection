@@ -16,7 +16,7 @@ let template = require('./app.html');
   directives: [ LoggedInRouterOutlet ]
 })
 @RouteConfig([
-  { path: '/', redirectTo: ['/Home'] },
+  { path: '/', redirectTo: ['/home'] },
   { path: '/home', component: Home, as: 'Home' },
   { path: '/login', component: Login, as: 'Login' },
   { path: '/signup', component: Signup, as: 'Signup' }
