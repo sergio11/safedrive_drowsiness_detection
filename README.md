@@ -124,7 +124,7 @@ YOLOv8 excels at **detecting and localizing objects** (e.g., faces, eyes) in rea
   - You need a **seamless, end-to-end detection system**.
 
 ## 🚀 **Let’s Dive In!** 🚀  
-Both models are powerful tools for **driver drowsiness detection**, and each offers unique benefits. The choice of approach depends on your specific goals, dataset, and available resources. Now, let's explore the code and see how these models work in practice! 🔍
+Both models are powerful tools for **driver drowsiness detection**, and each offers unique benefits. The choice of approach depends on your specific goals, dataset, and available resources.
 
 
 
