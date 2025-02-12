@@ -228,3 +228,5 @@ SOFTWARE.
 
 https://blog.roboflow.com/how-to-train-a-yolov8-classification-model/
 https://www.kaggle.com/code/mernaabdallah/driver-fatigue-monitoring-system-with-yolo-v8#Model-2
+https://github.com/estebanuri/pub-yolo-android
+https://medium.com/@estebanuri/real-time-object-detection-in-android-with-yolov11-6b7514556185
