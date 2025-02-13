@@ -1,4 +1,4 @@
-# 🚗 **Deep Learning for Safer Roads** 🚗  Exploring CNN-Based and YOLOv8 Driver Drowsiness Detection 💤
+# 🚗 **Deep Learning for Safer Roads** 🚗  Exploring CNN-Based and YOLOv11 Driver Drowsiness Detection 💤
 
 
 This notebook delves into the exciting world of **deep learning** and its potential to **save lives** on the road. 🚦 We tackle the critical issue of **driver drowsiness detection**, using cutting-edge models to help **prevent fatigue-related accidents**. We explore two powerful approaches: **CNN-based models with Transfer Learning** and **YOLOv8 integrated with Roboflow**. 📊 Let’s see which one emerges as the most effective for **real-time driver monitoring**! ⏱️
@@ -179,7 +179,7 @@ If you're building a **mobile app** where **speed** and **efficiency** are criti
   - You need a **lightweight** model that runs **efficiently** on **mobile devices** with **limited computational power**.
   - You're aiming for **real-time performance** with a **fast deployment** using **TensorFlow Lite**.
 
-- **Go for YOLOv8 with Roboflow** if:  
+- **Go for YOLOv11 with Roboflow** if:  
   - You need **advanced object detection** and **localization** (e.g., detecting faces or eyes).
   - Your app will run on **high-performance mobile devices** that can handle the increased computational load.
   - You want an **end-to-end system** that seamlessly combines **real-time detection** and **classification**.
