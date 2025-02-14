@@ -190,6 +190,10 @@ Both models have their strengths, and the best choice will depend on the **speci
 ## 🚀 **Let’s Dive In!** 🚀  
 Both models are powerful tools for **driver drowsiness detection**, and each offers unique benefits. The choice of approach depends on your specific goals, dataset, and available resources.
 
+## **📚 References**
+- [How to train a YOLOv8 classification model](https://blog.roboflow.com/how-to-train-a-yolov8-classification-model/)
+- [Real time object detection in android with yolov11](https://www.tensorflow.org/)
+
 ## License ⚖️
 
 This project is licensed under the MIT License, an open-source software license that allows developers to freely use, copy, modify, and distribute the software. 🛠️ This includes use in both personal and commercial projects, with the only requirement being that the original copyright notice is retained. 📄
@@ -225,8 +229,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
-https://blog.roboflow.com/how-to-train-a-yolov8-classification-model/
-https://www.kaggle.com/code/mernaabdallah/driver-fatigue-monitoring-system-with-yolo-v8#Model-2
-https://github.com/estebanuri/pub-yolo-android
-https://medium.com/@estebanuri/real-time-object-detection-in-android-with-yolov11-6b7514556185
