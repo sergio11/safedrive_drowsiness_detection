@@ -195,6 +195,16 @@ If you're building a **mobile app** where **speed** and **efficiency** are criti
 ### Final Thoughts 🧠  
 Both models have their strengths, and the best choice will depend on the **specific needs** of your **mobile app**. If you're looking for a **lightweight** and **efficient** model for **real-time performance**, **MobileNetV2** is the way to go. However, if your focus is on **advanced detection and localization** with **high-end hardware**, **YOLOv8** will offer the performance you need for a **powerful real-time solution**. 🚀
 
+### Screenshots
+
+<img src="doc/screenshots/picture_1.png" />
+<img src="doc/screenshots/picture_2.png" />
+<img src="doc/screenshots/picture_3.png" />
+<img src="doc/screenshots/picture_4.png" />
+<img src="doc/screenshots/roboflow1.PNG" />
+<img src="doc/screenshots/roboflow2.PNG" />
+<img src="doc/screenshots/roboflow3.PNG" />
+
 ## 🚀 **Let’s Dive In!** 🚀  
 Both models are powerful tools for **driver drowsiness detection**, and each offers unique benefits. The choice of approach depends on your specific goals, dataset, and available resources.
 
