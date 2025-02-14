@@ -13,6 +13,14 @@ This notebook delves into the exciting world of **deep learning** and its potent
    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
+I extend my gratitude to the creators of the **Driver Drowsiness Dataset (DDD)** for providing a high-quality dataset that has been instrumental in training and evaluating our deep learning model for driver drowsiness detection.  
+
+The dataset, derived from the **Real-Life Drowsiness Dataset**, offers a diverse collection of over **41,790 labeled images**, carefully preprocessed to focus on the driver’s facial region. The effort in extracting, annotating, and sharing this dataset greatly contributes to research and development in road safety and accident prevention through deep learning techniques.  
+
+For more details and citation, please refer to the original dataset:  
+[Driver Drowsiness Dataset (DDD) on Kaggle](https://www.kaggle.com/datasets/ismailnasri20/driver-drowsiness-dataset-ddd/data)  
+
+
 🙏 I would like to extend my heartfelt gratitude to [Santiago Hernández, an expert in Cybersecurity and Artificial Intelligence](https://www.udemy.com/user/shramos/). His incredible course on Deep Learning, available at Udemy, was instrumental in shaping the development of this project. The insights and techniques learned from his course were crucial in crafting the neural network architecture used in this classifier.
 
 ## 🌟 Explore My Other Cutting-Edge AI Projects! 🌟
@@ -193,6 +201,16 @@ Both models are powerful tools for **driver drowsiness detection**, and each off
 ## **📚 References**
 - [How to train a YOLOv8 classification model](https://blog.roboflow.com/how-to-train-a-yolov8-classification-model/)
 - [Real time object detection in android with yolov11](https://www.tensorflow.org/)
+- [Transfer learning](https://www.kaggle.com/code/esraameslamsayed/driver-drowsiness-detection-cnn-mobilenetv)
+- [Dataset](https://www.kaggle.com/datasets/ismailnasri20/driver-drowsiness-dataset-ddd/data)
+
+## **🙏 Acknowledgments**
+
+A huge **thank you** to **Ismail Nasri** for providing the dataset that made this project possible! 🌟 The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/ismailnasri20/driver-drowsiness-dataset-ddd/data). Your contribution is greatly appreciated! 🙌
+
+A special thank you to **Esraa Meslam Sayed** for the invaluable inspiration provided through his project, [**Driver Drowsiness Detection🚘😴(CNN ||MobileNetV2)**](https://www.kaggle.com/code/esraameslamsayed/driver-drowsiness-detection-cnn-mobilenetv2). His work laid the foundation for the development of this model and greatly influenced the approach taken in this project. The insights and techniques explored in his work served as a key resource, helping to guide the creation of an effective and robust diabetes prediction model. We truly appreciate the effort and dedication put into his research and contributions to the data science community
+
+🙏 I would like to extend my heartfelt gratitude to [Santiago Hernández, an expert in Cybersecurity and Artificial Intelligence](https://www.udemy.com/user/shramos/). His incredible course on Deep Learning, available at Udemy, was instrumental in shaping the development of this project. The insights and techniques learned from his course were crucial in crafting the neural network architecture used in this classifier
 
 ## License ⚖️
 
