@@ -57,6 +57,9 @@ Compare **LSTM** and **Transformer** models for generating contextually relevant
 + [🩺💻 Breast Cancer Diagnosis with MLP](https://github.com/sergio11/breast_cancer_diagnosis_mlp)  
 Automate breast cancer diagnosis using a **Multi-Layer Perceptron (MLP)** model to classify tumors as benign or malignant based on biopsy data.
 
++ [Deep Learning for Safer Roads 🚗 Exploring CNN-Based and YOLOv11 Driver Drowsiness Detection 💤](https://github.com/sergio11/safedrive_drowsiness_detection)
+Comparing driver drowsiness detection with CNN + MobileNetV2 vs YOLOv11 for real-time accuracy and efficiency 🧠🚗. Exploring both deep learning models to prevent fatigue-related accidents 😴💡.
+
 ## 🚙 **Why is This Important?** 🚙  
 Driver fatigue is a major cause of road accidents worldwide 😴. Detecting **drowsy driving** in real-time is crucial for **preventing accidents** and ensuring road safety. This project leverages the **Driver Drowsiness Dataset (DDD)**, a collection of images of drivers in **Drowsy** and **Non-Drowsy** states, to build two different models aimed at **real-time detection** of drowsiness. 🌍
 
