@@ -23,6 +23,14 @@ For more details and citation, please refer to the original dataset:
 
 🙏 I would like to extend my heartfelt gratitude to [Santiago Hernández, an expert in Cybersecurity and Artificial Intelligence](https://www.udemy.com/user/shramos/). His incredible course on Deep Learning, available at Udemy, was instrumental in shaping the development of this project. The insights and techniques learned from his course were crucial in crafting the neural network architecture used in this classifier.
 
+## ⚠️ Disclaimer
+
+This project, **Deep Learning for Safer Roads**, is an **educational and experimental** exploration of deep learning models for detecting **driver drowsiness**. The primary goal of this work is to investigate the effectiveness of **CNN-based models with Transfer Learning** and **YOLOv8** for real-time driver monitoring and fatigue detection.
+
+The models and methods explored in this notebook are intended for **learning and research purposes** only
+
+This repository is open for educational purposes and encourages further experimentation and development.
+
 ## 🌟 Explore My Other Cutting-Edge AI Projects! 🌟
 
 If you found this project intriguing, I invite you to check out my other AI and machine learning initiatives, where I tackle real-world challenges across various domains:
@@ -216,6 +224,14 @@ Both models are powerful tools for **driver drowsiness detection**, and each off
 - [Real time object detection in android with yolov11](https://www.tensorflow.org/)
 - [Transfer learning](https://www.kaggle.com/code/esraameslamsayed/driver-drowsiness-detection-cnn-mobilenetv)
 - [Dataset](https://www.kaggle.com/datasets/ismailnasri20/driver-drowsiness-dataset-ddd/data)
+
+## ⚠️ Disclaimer
+
+This project, **Deep Learning for Safer Roads**, is an **educational and experimental** exploration of deep learning models for detecting **driver drowsiness**. The primary goal of this work is to investigate the effectiveness of **CNN-based models with Transfer Learning** and **YOLOv8** for real-time driver monitoring and fatigue detection.
+
+The models and methods explored in this notebook are intended for **learning and research purposes** only
+
+This repository is open for educational purposes and encourages further experimentation and development.
 
 ## **🙏 Acknowledgments**
 
