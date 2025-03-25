@@ -20,6 +20,7 @@ The dataset, derived from the **Real-Life Drowsiness Dataset**, offers a diverse
 For more details and citation, please refer to the original dataset:  
 [Driver Drowsiness Dataset (DDD) on Kaggle](https://www.kaggle.com/datasets/ismailnasri20/driver-drowsiness-dataset-ddd/data)  
 
+A special thank you to **Esraa Meslam Sayed** for the invaluable inspiration provided through his project, [**Driver Drowsiness Detection🚘😴(CNN ||MobileNetV2)**](https://www.kaggle.com/code/esraameslamsayed/driver-drowsiness-detection-cnn-mobilenetv2). His work laid the foundation for the development of this model and greatly influenced the approach taken in this project. The insights and techniques explored in his work served as a key resource, helping to guide the creation of an effective and robust diabetes prediction model. We truly appreciate the effort and dedication put into his research and contributions to the data science community
 
 🙏 I would like to extend my heartfelt gratitude to [Santiago Hernández, an expert in Cybersecurity and Artificial Intelligence](https://www.udemy.com/user/shramos/). His incredible course on Deep Learning, available at Udemy, was instrumental in shaping the development of this project. The insights and techniques learned from his course were crucial in crafting the neural network architecture used in this classifier.
 
