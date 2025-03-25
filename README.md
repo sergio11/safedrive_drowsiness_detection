@@ -213,8 +213,6 @@ Both models have their strengths, and the best choice will depend on the **speci
 <img src="doc/screenshots/picture_2.png" />
 <img src="doc/screenshots/picture_3.png" />
 <img src="doc/screenshots/picture_4.png" />
-<img src="doc/screenshots/roboflow1.PNG" />
-<img src="doc/screenshots/roboflow2.PNG" />
 <img src="doc/screenshots/roboflow3.PNG" />
 
 ## 🚀 **Let’s Dive In!** 🚀  
