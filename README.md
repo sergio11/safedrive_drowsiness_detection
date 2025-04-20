@@ -1,7 +1,10 @@
 # 🚗 **Deep Learning for Safer Roads** 🚗  Exploring CNN-Based and YOLOv11 Driver Drowsiness Detection 💤
 
+As part of my journey through a **Deep Learning course**, I developed this project to explore how **artificial intelligence** can contribute to making our roads safer. I focused on the challenge of **driver drowsiness detection**, a crucial issue given how many accidents are caused by fatigue every year. 💥🚘 The idea of using deep learning to potentially **save lives** made this an incredibly motivating and meaningful project to work on. ❤️‍🔥
 
-This notebook delves into the exciting world of **deep learning** and its potential to **save lives** on the road. 🚦 We tackle the critical issue of **driver drowsiness detection**, using cutting-edge models to help **prevent fatigue-related accidents**. We explore two powerful approaches: **CNN-based models with Transfer Learning** and **YOLOv8 integrated with Roboflow**. 📊 Let’s see which one emerges as the most effective for **real-time driver monitoring**! ⏱️
+Throughout the process, I experimented with two powerful approaches: a **CNN-based model with Transfer Learning** for image classification 🧠🖼️, and **YOLOv8**, a real-time object detection model integrated through **Roboflow** ⚙️🎯. This allowed me to explore both **accuracy-focused models** and those designed for **real-time inference**, gaining a clearer understanding of their strengths, limitations, and real-world applications. ⏱️🔍
+
+Working on this project helped me strengthen my grasp of key deep learning concepts, from **feature extraction** and **model fine-tuning** to evaluating metrics like **precision**, **recall**, and **F1-score**. 📊 I also encountered important practical lessons—like how to handle imbalanced data, optimize for performance, and think critically about what it means to deploy AI in real-life, safety-critical situations. 🧪⚠️
 
 <p align="center">
    <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
