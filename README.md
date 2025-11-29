@@ -243,10 +243,6 @@ A special thank you to **Esraa Meslam Sayed** for the invaluable inspiration pro
 
 🙏 I would like to extend my heartfelt gratitude to [Santiago Hernández, an expert in Cybersecurity and Artificial Intelligence](https://www.udemy.com/user/shramos/). His incredible course on Deep Learning, available at Udemy, was instrumental in shaping the development of this project. The insights and techniques learned from his course were crucial in crafting the neural network architecture used in this classifier
 
-## Visitors Count
-
-<img width="auto" src="https://profile-counter.glitch.me/safedrive_drowsiness_detection/count.svg" />
-
 ## License ⚖️
 
 This project is licensed under the **Apache License 2.0**, a permissive open-source software license that allows developers to freely use, modify, and distribute the software. 🚀 This includes both personal and commercial use, with some conditions for distribution and modification. 📜
